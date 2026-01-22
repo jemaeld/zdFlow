@@ -1,0 +1,19 @@
+# .gitignore para Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Variables de entorno (claves secretas)
+.env
+
+# Base de datos local (si usamos SQLite)
+*.db
+*.sqlite3
+
+# Logs
+*.log

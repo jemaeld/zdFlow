@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+requests
+# customtkinter se agregará cuando hagamos la interfaz
